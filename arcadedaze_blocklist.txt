@@ -2,159 +2,155 @@
 ! License: Do What The F*ck You Want To Public License
 
 ! â†“  Blocklist â†“
-1.courier-sandbox-push-apple.com.akadns.net
-101.0.0.10.zen.spamhaus.org
-104.19.192.102
-2.android.pool.ntp.org
-20min.rcmd.tda.io
-7.p.tdf.ringier.ch
-77.56.43.84
-85otw.voluumtrk3.com
-a18-128.akadns.org
-a5-130.akadns.org
-aatkit.com
-ad.altamob.xiaoying.co
-adashxgc.ut.taobao.com
-adclick.g.doublecklick.net
-ade.googlesyndication.com
-adeventtracker.spotify.com
-adquality.ch
-ads-fa.spotify.com
-adservice.google.ch
-adservice.google.com
-alpiq.com.dob.sibl.support-intelligence.net
-alpiq.com.multi.surbl.org
-alpiq.com.multi.uribl.com
-analytics.plex.tv
-analytics.rayjump.com
-analytics.spotify.com
-api.whatsapp.com
-app-measurement.com
-app2.greatmacsoft.tech
-apptimize.com
-audio2.spotify.com
-b-api.facebook.com
-b._dns-sd._udp.0.0.0.10.in-addr.arpa
-b.scorecardresearch.com
-bounceexchange.com
-brahe.apptimize.com
-bs.serving-sys.com
-cdn.feeds.videosz.com
-cdn.podigee.com
-cdn1.smallimg.phcdn.com
-ch-gmtdmp.mookie1.com
-chat.cdn.whatsapp.net
-chat48.realperson.de
-chat819.realperson.de
-checkip.dyndns.com
-checkip.dyndns.org
-connectivitycheck.gstatic.com
-content.bitsontherun.com
-core.insightexpressai.com
-crashlytics.com
-d1mti8cqxh4eqy.cloudfront.net
-d1pywvbolq0b04.cloudfront.net
-d2zv5rkii46miq.cloudfront.net
-daily.24342.82.1.0.823b7124.ping.clamav.net
-db._dns-sd._udp.0.0.0.10.in-addr.arpa
-dialog.filestackapi.com
-e5787.g.akamaiedge.net
-e6858.dsce9.akamaiedge.net
-edge-mqtt.facebook.com
-embed.playbuzz.com
-eradzwtxipqd.local
-eu-api.samsungpositioning.com
-eu-central-courier-4.push-apple.com.akadns.net
-fbcrjfcfceqfpzr.localdomain
-fi1-ph.ypncdn.com.sds.rncdn7.com
-fi2.ypncdn.com.sds.rncdn7.com
-gateb.com.dbl.spamhaus.org
-gateb.com.dob.sibl.support-intelligence.net
-gateb.com.multi.surbl.org
-gateb.com.multi.uribl.com
-gcfmsomzpww.localdomain
-graph.facebook.com
-hockeyapp.net
-i.ytimg.com
-img.nzz.ch
-img.stripcdn.com
-jegachlr.localdomain
-jgyfwxqw.localdomain
-jlpyozrfzu.localdomain
-jslog.krxd.net
-keyvalueservice.icloud.com
-klipotmajoncb.localdomain
-lastfm-z.plexapp.com
-lb-host-kaufdown.dns.boreus.de
-lb-play-prod.dns.boreus.de
-lb-svmark-live.dns.boreus.de
-lb._dns-sd._udp.0.0.0.10.in-addr.arpa
-ldmpazchsrze.localdomain
-liftoff.io
-linkedin.com.dbl.spamhaus.org
-linkedin.com.dob.sibl.support-intelligence.net
-linkedin.com.multi.surbl.org
-linkedin.com.multi.uribl.com
-logs1407.xiti.com
-lotto.ws.blick.ch
-lp.cpstatic.ch
-matchinguu.com
-mparticle.com
-mqtt-mini.facebook.com
-mtalk.google.com
-no-thanks.invalid
-no-thanks.invalid.localdomain
-p49-keyvalueservice.icloud.com
-p49-quota.icloud.com
-peakgames.helpshift.com
-platform.twitter.com
-portal.fb.com
-profiles.tagger.opecloud.com
-ptr12.globalrootservers.net
-pushtrs7.push.hicloud.com
-pushwoosh.com
-pxaze45529.i.lithium.com
-query.yahooapis.com
-query.yahooapis.com.local
-rapidgator.net
-rcttgohimrmib.localdomain
-rzebniche.localdomain
-s.adadapter.netzathleten-media.de
-safebrowsing.googleapis.com
-sbb.imgix.net
-scontent-frt3-2.xx.fbcdn.net
-scontent-frx5-1.xx.fbcdn.net
-serverstatus.apple.com.akadns.net
-shop.bbc.com
-static.homedia.ch
-static.xx.fbcdn.net
-staticv2.adringomedia.com
-stats01.20min.ch
-storage.cpstatic.ch
-swmhsharelive1.dns.boreus.de
-syndication.twitter.com
-tamedia-ams.gscontxt.net
-tbfvnbbramwj.local
-thumb-v4.xhcdn.com
-time-osx.g.aaplimg.com
-twitter.com
-us-sandbox-courier-e4.push-apple.com.akadns.net
-v3.http.api.mein-chat.com
-v3.ws.api.mein-chat.com
-vamp.nzz.ch
-vendorlist.consensu.org
-vyvybik.local
-w.tda.io
-wbgpqwbbk.localdomain
-weather.da-services.ch
-weather.service.msn.com
-writeonly.wordpress.com
-www.asadcdn.com
-www.crushftp.com
-www.facebook.com
-www.filestackapi.com
-www.playbuzz.com
-wywy.com
-xwedonn.localdomain
-yt3.ggpht.com
-zboqlfeoxwpi.localdomain
+0.0.0.0 1.courier-sandbox-push-apple.com.akadns.net
+0.0.0.0 101.0.0.10.zen.spamhaus.org
+0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 20min.rcmd.tda.io
+0.0.0.0 7.p.tdf.ringier.ch
+0.0.0.0 85otw.voluumtrk3.com
+0.0.0.0 a18-128.akadns.org
+0.0.0.0 a5-130.akadns.org
+0.0.0.0 aatkit.com
+0.0.0.0 ad.altamob.xiaoying.co
+0.0.0.0 adashxgc.ut.taobao.com
+0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 adquality.ch
+0.0.0.0 ads-fa.spotify.com
+0.0.0.0 adservice.google.ch
+0.0.0.0 adservice.google.com
+0.0.0.0 alpiq.com.dob.sibl.support-intelligence.net
+0.0.0.0 alpiq.com.multi.surbl.org
+0.0.0.0 alpiq.com.multi.uribl.com
+0.0.0.0 analytics.plex.tv
+0.0.0.0 analytics.rayjump.com
+0.0.0.0 analytics.spotify.com
+0.0.0.0 api.whatsapp.com
+0.0.0.0 app-measurement.com
+0.0.0.0 app2.greatmacsoft.tech
+0.0.0.0 apptimize.com
+0.0.0.0 audio2.spotify.com
+0.0.0.0 b-api.facebook.com
+0.0.0.0 b._dns-sd._udp.0.0.0.10.in-addr.arpa
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bounceexchange.com
+0.0.0.0 brahe.apptimize.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 cdn.feeds.videosz.com
+0.0.0.0 cdn.podigee.com
+0.0.0.0 cdn1.smallimg.phcdn.com
+0.0.0.0 ch-gmtdmp.mookie1.com
+0.0.0.0 chat.cdn.whatsapp.net
+0.0.0.0 chat48.realperson.de
+0.0.0.0 chat819.realperson.de
+0.0.0.0 content.bitsontherun.com
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 crashlytics.com
+0.0.0.0 d1mti8cqxh4eqy.cloudfront.net
+0.0.0.0 d1pywvbolq0b04.cloudfront.net
+0.0.0.0 d2zv5rkii46miq.cloudfront.net
+0.0.0.0 daily.24342.82.1.0.823b7124.ping.clamav.net
+0.0.0.0 db._dns-sd._udp.0.0.0.10.in-addr.arpa
+0.0.0.0 dialog.filestackapi.com
+0.0.0.0 e5787.g.akamaiedge.net
+0.0.0.0 e6858.dsce9.akamaiedge.net
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 embed.playbuzz.com
+0.0.0.0 eradzwtxipqd.local
+0.0.0.0 eu-api.samsungpositioning.com
+0.0.0.0 eu-central-courier-4.push-apple.com.akadns.net
+0.0.0.0 fbcrjfcfceqfpzr.localdomain
+0.0.0.0 fi1-ph.ypncdn.com.sds.rncdn7.com
+0.0.0.0 fi2.ypncdn.com.sds.rncdn7.com
+0.0.0.0 gateb.com.dbl.spamhaus.org
+0.0.0.0 gateb.com.dob.sibl.support-intelligence.net
+0.0.0.0 support-intelligence.net
+0.0.0.0 gateb.com.multi.surbl.org
+0.0.0.0 gateb.com.multi.uribl.com
+0.0.0.0 gcfmsomzpww.localdomain
+0.0.0.0 graph.facebook.com
+0.0.0.0 hockeyapp.net
+0.0.0.0 i.ytimg.com
+0.0.0.0 img.nzz.ch
+0.0.0.0 img.stripcdn.com
+0.0.0.0 jegachlr.localdomain
+0.0.0.0 jgyfwxqw.localdomain
+0.0.0.0 jlpyozrfzu.localdomain
+0.0.0.0 jslog.krxd.net
+0.0.0.0 keyvalueservice.icloud.com
+0.0.0.0 klipotmajoncb.localdomain
+0.0.0.0 lastfm-z.plexapp.com
+0.0.0.0 lb-host-kaufdown.dns.boreus.de
+0.0.0.0 lb-play-prod.dns.boreus.de
+0.0.0.0 lb-svmark-live.dns.boreus.de
+0.0.0.0 lb._dns-sd._udp.0.0.0.10.in-addr.arpa
+0.0.0.0 ldmpazchsrze.localdomain
+0.0.0.0 liftoff.io
+0.0.0.0 linkedin.com.dbl.spamhaus.org
+0.0.0.0 linkedin.com.dob.sibl.support-intelligence.net
+0.0.0.0 linkedin.com.multi.surbl.org
+0.0.0.0 linkedin.com.multi.uribl.com
+0.0.0.0 logs1407.xiti.com
+0.0.0.0 lotto.ws.blick.ch
+0.0.0.0 lp.cpstatic.ch
+0.0.0.0 matchinguu.com
+0.0.0.0 mparticle.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 no-thanks.invalid
+0.0.0.0 no-thanks.invalid.localdomain
+0.0.0.0 p49-keyvalueservice.icloud.com
+0.0.0.0 p49-quota.icloud.com
+0.0.0.0 peakgames.helpshift.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 portal.fb.com
+0.0.0.0 profiles.tagger.opecloud.com
+0.0.0.0 ptr12.globalrootservers.net
+0.0.0.0 pushtrs7.push.hicloud.com
+0.0.0.0 pushwoosh.com
+0.0.0.0 pxaze45529.i.lithium.com
+0.0.0.0 query.yahooapis.com
+0.0.0.0 query.yahooapis.com.local
+0.0.0.0 rapidgator.net
+0.0.0.0 rcttgohimrmib.localdomain
+0.0.0.0 rzebniche.localdomain
+0.0.0.0 s.adadapter.netzathleten-media.de
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 sbb.imgix.net
+0.0.0.0 scontent-frt3-2.xx.fbcdn.net
+0.0.0.0 scontent-frx5-1.xx.fbcdn.net
+0.0.0.0 serverstatus.apple.com.akadns.net
+0.0.0.0 shop.bbc.com
+0.0.0.0 static.homedia.ch
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 staticv2.adringomedia.com
+0.0.0.0 stats01.20min.ch
+0.0.0.0 storage.cpstatic.ch
+0.0.0.0 swmhsharelive1.dns.boreus.de
+0.0.0.0 syndication.twitter.com
+0.0.0.0 tamedia-ams.gscontxt.net
+0.0.0.0 tbfvnbbramwj.local
+0.0.0.0 thumb-v4.xhcdn.com
+0.0.0.0 time-osx.g.aaplimg.com
+0.0.0.0 twitter.com
+0.0.0.0 us-sandbox-courier-e4.push-apple.com.akadns.net
+0.0.0.0 v3.http.api.mein-chat.com
+0.0.0.0 v3.ws.api.mein-chat.com
+0.0.0.0 vamp.nzz.ch
+0.0.0.0 vendorlist.consensu.org
+0.0.0.0 vyvybik.local
+0.0.0.0 w.tda.io
+0.0.0.0 wbgpqwbbk.localdomain
+0.0.0.0 weather.da-services.ch
+0.0.0.0 weather.service.msn.com
+0.0.0.0 writeonly.wordpress.com
+0.0.0.0 www.asadcdn.com
+0.0.0.0 www.crushftp.com
+0.0.0.0 www.facebook.com
+0.0.0.0 www.filestackapi.com
+0.0.0.0 www.playbuzz.com
+0.0.0.0 wywy.com
+0.0.0.0 xwedonn.localdomain
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 zboqlfeoxwpi.localdomain
