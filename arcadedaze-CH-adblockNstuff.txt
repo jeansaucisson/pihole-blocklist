@@ -28,3 +28,4 @@ tpc.googlesyndication.com
 0.0.0.0 z.moatads.com
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 ampproject.org
+0.0.0.0 analytics.withgoogle.com
