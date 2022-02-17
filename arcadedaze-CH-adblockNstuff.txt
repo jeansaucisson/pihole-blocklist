@@ -1,0 +1,4 @@
+adnxs.com
+fra1-ib.adnxs.com
+adnxs-simple.com
+crcdn01.adnxs-simple.com
