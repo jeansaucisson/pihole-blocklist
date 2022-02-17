@@ -2,3 +2,16 @@ adnxs.com
 fra1-ib.adnxs.com
 adnxs-simple.com
 crcdn01.adnxs-simple.com
+acdn.adnxs.com
+admeira.chdn.admeira.ch
+adsafeprotected.com
+brandmetrics.com
+cdn.cwi.re
+connect.facebook.com
+facebook.com
+doubleclick.net
+googleads.g.doublecklick.net
+googlesyndication.com
+pixel.adsafeprotected.com
+www.google-analytics.com
+www.googletagmanager.com
