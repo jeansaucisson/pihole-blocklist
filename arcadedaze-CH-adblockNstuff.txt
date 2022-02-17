@@ -1,3 +1,6 @@
+
+# Stuff from "blick.ch"
+
 adnxs.com
 fra1-ib.adnxs.com
 adnxs-simple.com
